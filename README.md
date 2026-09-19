@@ -1,5 +1,5 @@
 # SWYNEX-data-cleaning
-TASK -1 
+TASK - 1 
 -- creating database
 create database bank;
 use bank;
